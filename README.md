@@ -11,11 +11,18 @@ El formulario consta de dos inputs (uno encargado de seleccionar la criptomoneda
 
 Además el formulario cuenta con válidación simple que impide realizar búsquedas si algunos de los campos están vacíon o para evitar hacer consultas innecesarias a la API.
 
+![Resultados](https://github.com/Castamor/administrador-criptomonedas/assets/141193208/4595e800-e07a-4d2e-8f6d-a31d3ec0a5c3)
+
+
 ## Resultados
 La sección de resultados proporciona esta información:
 - Precio/Valor actual.
 - Precio más alto en las últimas 24 horas.
 - Precio más bajo en las últimas 24 horas.
+
+![Resultados](https://github.com/Castamor/administrador-criptomonedas/assets/141193208/026033d9-0900-443f-b99b-b4661b597ba6)
+
+
 
 ## Tecnologías
 Este proyecto utiliza tecnologías como:
@@ -26,4 +33,4 @@ Este proyecto utiliza tecnologías como:
 - Netlify
 - Eslint
 
-###### README.md - v3
+###### README.md - v4 (agregar imágenes)
