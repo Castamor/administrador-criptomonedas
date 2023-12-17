@@ -1,10 +1,8 @@
 # Cotizador de Criptomonedas
+Proyecto permite cotizar y obtener información de valor/precios de las criptomonedas más populares como *Bitcoin, Ethereum, Orca, entre otros*.
 
 ## Objetivo de este proyecto
 Este proyecto fue realizado con el próposito de familiarizarse con la lógica, componetización y uso de customHooks de React, mejorar en temas del diseño de UI utilizando TailwindCSS y el obtener experiencia de uso respecto a APIS (hacer fetch, procesar la información y mostrar dicha información).
-
-## Descripción
-Proyecto permite cotizar y obtener información de valor/precios de las criptomonedas más populares como *Bitcoin, Ethereum, Orca, entre otros*.
 
 ## Funcionamiento
 Funciona en base a un formulario que hace uso de la [API de CriptoCompare](https://min-api.cryptocompare.com/).
@@ -27,3 +25,5 @@ Este proyecto utiliza tecnologías como:
 - Vite
 - Netlify
 - Eslint
+
+###### README.md - v3
