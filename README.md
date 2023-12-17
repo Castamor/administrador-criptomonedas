@@ -7,7 +7,7 @@ Este proyecto fue realizado con el próposito de familiarizarse con la lógica, 
 Proyecto permite cotizar y obtener información de valor/precios de las criptomonedas más populares como *Bitcoin, Ethereum, Orca, entre otros*.
 
 ## Funcionamiento
-Funciona en base a un formulario que hace uso de la (API de CriptoCompare)[https://min-api.cryptocompare.com/].
+Funciona en base a un formulario que hace uso de la [API de CriptoCompare](https://min-api.cryptocompare.com/).
 
 El formulario consta de dos inputs (uno encargado de seleccionar la criptomoneda y el otro de la moneda a la que se desea hacer la conversión de valor) y de la sección encargada de mostrar los resultados.
 
